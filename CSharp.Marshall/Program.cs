@@ -11,12 +11,10 @@ public static class Program
     {
 
 
-        
+
         NativeMethods.CreateWindow();
 
-
-
-
+        
 
     }
 
